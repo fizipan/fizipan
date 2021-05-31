@@ -13,7 +13,7 @@ I'm Hafizh Maulana Yusliansyah a Full Stack Web Developer and Content Creator on
 - 📫 How to reach me: hafizhmy26@gmail.com.
 - ⚡ Fun fact: I am a Vocational High School Student who loves to learn about new things about programming.
 
-#### My Top Framworks
+#### My Top Frameworks
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
