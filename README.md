@@ -50,7 +50,7 @@ I'm Hafizh Maulana Yusliansyah a Full Stack Web Developer and Content Creator on
 
 #### Bizness
 
-- :paperclip: [My Resume/CV](https://github.com/hafizhmaulanay/hafizhmaulanay/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/hafizhmaulanay/hafizhmaulanay/blob/master/resumes/CV-Hafizh%20Maulana%20Y)
 - :email: hafizhmy26@gmail.com
 
 #### Profile Visits
