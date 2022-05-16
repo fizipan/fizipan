@@ -9,4 +9,6 @@
 - 💕 I'm currently fall in love with ReactJs and Laravel
 - 📫 You can reach me at my instagram [@hafizhmaualanay](https://instagram.com/hafizhmaulanay)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=hafizhmaulanay&show_icons=true)
+<p><img src="https://github-readme-stats.vercel.app/api?username=hafizhmaulanay&show_icons=true&theme=nightowl&locale=en" alt="hafizhmaulanay" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafizhmaulanay&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="hafizhmaulanay" /></p>
