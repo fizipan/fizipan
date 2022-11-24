@@ -12,6 +12,7 @@ Also known as hafizh, Software Engineer from Indonesia 🇮🇩.
 - 🌱 I’m currently focusing in front end framework.
 - 😄 I'm natively speak Indonesian and mid speak english.
 - 💕 I'm currently fall in love with ReactJs, Tailwind and Laravel.
+- ⚡ Fun fact: Big Fan of the ⚡ emoji
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=hafizhmaulanay&show_icons=true&theme=nightowl&locale=en" alt="hafizhmaulanay" /></p>
 
