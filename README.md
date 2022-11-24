@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Hafizh Maulana Yusliansyah
 
-Also known as hafizh, web developer from Indonesia 🇮🇩.
+Also known as hafizh, Software Engineer from Indonesia 🇮🇩.
 
 ### Connect with me:
 
