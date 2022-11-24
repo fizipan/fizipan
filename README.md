@@ -6,14 +6,12 @@ Also known as hafizh, Software Engineer from Indonesia 🇮🇩.
 
 ### Connect with me:
 
-[![Twitter Badge](https://img.shields.io/badge/-@hafizhmaulanay-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/hafizhmaulanay) [![Mail Badge](https://img.shields.io/badge/-WebProgramming17-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqSQyghhNR8pdsznEqX663w) [![Linkedin Badge](https://img.shields.io/badge/-Hafizh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafizh-maulana-yusliansyah-541088207) [![Mail Badge](https://img.shields.io/badge/-@hafizhmaulana_y-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/hafizhmaulana_y) [![Mail Badge](https://img.shields.io/badge/-hafizhmy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hafizhmy26@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@hafizhmaulanay-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/hafizhmaulanay) [![Youtube Badge](https://img.shields.io/badge/-WebProgramming17-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqSQyghhNR8pdsznEqX663w) [![Linkedin Badge](https://img.shields.io/badge/-Hafizh%20Maulana%20Yusliansyah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafizhmaulanay) [![Mail Badge](https://img.shields.io/badge/-@hafizhmaulana_y-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/hafizhmaulana_y) [![Mail Badge](https://img.shields.io/badge/-hafizhmy26@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hafizhmy26@gmail.com)
 
-- 🔭 I’m currently working on my personal projects, you can check <a href="https://hafizhmaulanay.netlify.app">my personal website</a>
-- ⚡ Excited to Learning all about Open Source
-- 🌱 I’m currently learning front end framework
-- 😄 I'm natively speak Indonesian and fluently speak english.
-- 💕 I'm currently fall in love with ReactJs and Laravel
-- 📫 You can reach me at my instagram [@hafizhmaualanay](https://instagram.com/hafizhmaulanay)
+- ⚡ Excited to Learning all about Open Source.
+- 🌱 I’m currently focusing in front end framework.
+- 😄 I'm natively speak Indonesian and mid speak english.
+- 💕 I'm currently fall in love with ReactJs, Tailwind and Laravel.
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=hafizhmaulanay&show_icons=true&theme=nightowl&locale=en" alt="hafizhmaulanay" /></p>
 
