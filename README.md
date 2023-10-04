@@ -4,7 +4,7 @@ Meet **Hafizh** a.k.a `hazmy`, a seasoned web developer from Indonesia with 3 ye
 
 ### Connect with me:
 
-[![Twitter Badge](https://img.shields.io/badge/-@haz_my26-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/haz_my26) [![Linkedin Badge](https://img.shields.io/badge/-Hafizh%20Maulana%20Yusliansyah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafizhmaulanay) [![Instagram Badge](https://img.shields.io/badge/-@hafizhmaulanay-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/hafizhmaulanay)
+[![Twitter Badge](https://img.shields.io/badge/-@haz_my26-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/haz_my26) [![Linkedin Badge](https://img.shields.io/badge/-Hafizh%20Maulana%20Yusliansyah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafizhmaulanay) [![Instagram Badge](https://img.shields.io/badge/-@haz_my26-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/haz_my26)
 
 - ⚡ Excited to Learning all about Open Source.
 - 🌱 I’m currently focusing in front end framework.
@@ -14,10 +14,7 @@ Meet **Hafizh** a.k.a `hazmy`, a seasoned web developer from Indonesia with 3 ye
 
 ## 📊 Stats
 
-<details>
- <summary>Full Stats (click me to toggle 👀)</summary>
- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazmy26&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
- <p><img src="https://github-readme-stats.vercel.app/api?username=hazmy26&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" alt="Github Stats" /></p>
- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hazmy26&theme=algolia" alt="Stat Streak" /></p>
- <p><img src="https://github-profile-trophy.vercel.app/?username=hazmy26&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
-</details>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazmy26&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=hazmy26&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" alt="Github Stats" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hazmy26&theme=algolia" alt="Stat Streak" /></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=hazmy26&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
