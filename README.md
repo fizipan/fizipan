@@ -10,7 +10,6 @@ Meet **Hafizh** a.k.a `fizipan`, a seasoned web developer from Indonesia with 3 
 - 🌱 I’m currently focusing in front end framework.
 - 😄 I'm natively speak Indonesian and mid speak english.
 - 💕 I'm currently fall in love with ReactJs, Tailwind and Laravel.
-- 🔥 Fun fact: Big Fan of the ⚡ emoji
 
 ## 📊 Stats
 
