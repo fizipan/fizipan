@@ -1,8 +1,6 @@
-<!-- ![My card name](https://cardivo.vercel.app/api?name=Hafizh%20Maulana%20Y&description=%20Just%20an%20Ordinary%20Developer&image=https://avatars.githubusercontent.com/u/56567633?s=96&v=4?v=4&backgroundColor=%23393D46&pattern=topography&colorPattern=%2347597E&fontColor=%23ddd&iconColor=%23fff&opacity=0.3) -->
-
 # 👋 Hi, I'm Hafizh Maulana Yusliansyah
 
-Also known as hafizh, Software Engineer from Indonesia 🇮🇩.
+Meet **Hafizh** a.k.a `hazmy`, a seasoned web developer from Indonesia with 3 years of experiences in Software Developer. Most of the time was working with `javascript` or `typescript`, using various frameworks to build frontend applications such as `react`, `svelte` or `vue`.
 
 ### Connect with me:
 
@@ -14,6 +12,12 @@ Also known as hafizh, Software Engineer from Indonesia 🇮🇩.
 - 💕 I'm currently fall in love with ReactJs, Tailwind and Laravel.
 - 🔥 Fun fact: Big Fan of the ⚡ emoji
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=hafizhmaulanay&show_icons=true&theme=nightowl&locale=en" alt="hafizhmaulanay" /></p>
+## 📊 Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafizhmaulanay&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="hafizhmaulanay" /></p>
+<details>
+ <summary>Full Stats (click me to toggle 👀)</summary>
+ <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizhmaulanay&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
+ <p><img src="https://github-readme-stats.vercel.app/api?username=hafizhmaulanay&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" alt="Github Stats" /></p>
+ <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizhmaulanay&theme=algolia" alt="Stat Streak" /></p>
+ <p><img src="https://github-profile-trophy.vercel.app/?username=hafizhmaulanay&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
+</details>
