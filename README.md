@@ -16,8 +16,8 @@ Meet **Hafizh** a.k.a `hazmy`, a seasoned web developer from Indonesia with 3 ye
 
 <details>
  <summary>Full Stats (click me to toggle 👀)</summary>
- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizhmaulanay&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
- <p><img src="https://github-readme-stats.vercel.app/api?username=hafizhmaulanay&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" alt="Github Stats" /></p>
- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizhmaulanay&theme=algolia" alt="Stat Streak" /></p>
- <p><img src="https://github-profile-trophy.vercel.app/?username=hafizhmaulanay&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
+ <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazmy26&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
+ <p><img src="https://github-readme-stats.vercel.app/api?username=hazmy26&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" alt="Github Stats" /></p>
+ <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hazmy26&theme=algolia" alt="Stat Streak" /></p>
+ <p><img src="https://github-profile-trophy.vercel.app/?username=hazmy26&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
 </details>
