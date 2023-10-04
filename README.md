@@ -4,7 +4,7 @@ Meet **Hafizh** a.k.a `fizipan`, a seasoned web developer from Indonesia with 3 
 
 ### Connect with me:
 
-[![Twitter Badge](https://img.shields.io/badge/-@ha_my26-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/haz_my26) [![Linkedin Badge](https://img.shields.io/badge/-Hafizh%20Maulana%20Yusliansyah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafizhmaulanay) [![Instagram Badge](https://img.shields.io/badge/-@fizipan-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/fizipan)
+[![Twitter Badge](https://img.shields.io/badge/-@haz_my26-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/haz_my26) [![Linkedin Badge](https://img.shields.io/badge/-Hafizh%20Maulana%20Yusliansyah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafizhmaulanay) [![Instagram Badge](https://img.shields.io/badge/-@fizipan-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/fizipan)
 
 - ⚡ Excited to Learning all about Open Source.
 - 🌱 I’m currently focusing in front end framework.
