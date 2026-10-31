@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 312" width="900" height="312" role="img" aria-labelledby="t d">
   <title id="t">Terminal session introducing fizipan</title>
-  <desc id="d">A terminal asks who fizipan is. The answer: Hafizh Maulana Yusliansyah, a senior frontend developer in Jakarta who turns Figma files into CMSes, dashboards and landing pages, is building Buku Token, and works with AI agents while signing off on the diff himself.</desc>
+  <desc id="d">A terminal asks who fizipan is. The answer: Hafizh Maulana Yusliansyah, an AI-native engineer in Jakarta who works through Claude Code, Codex, Cursor and MCP servers, lets agents do most of the typing and signs off on the diff himself.</desc>
   <defs>
     <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#8B5CF6"/>
@@ -50,15 +50,15 @@
 
     <g class="line l2">
       <circle cx="39" cy="120" r="4.5" fill="url(#edge)"/>
-      <text x="56" y="126"><tspan class="name">Hafizh Maulana Yusliansyah.</tspan> Senior frontend developer, Jakarta.</text>
+      <text x="56" y="126"><tspan class="name">Hafizh Maulana Yusliansyah.</tspan> AI-native engineer, Jakarta.</text>
     </g>
     <g class="line l3">
-      <text class="dim" x="56" y="152">Figma files go in. CMSes, dashboards and landing pages come out.</text>
+      <text class="dim" x="56" y="152">Writes the spec, runs the agents, reviews what comes back.</text>
     </g>
 
     <g class="line l4">
       <circle cx="39" cy="190" r="4.5" fill="url(#edge)"/>
-      <text x="56" y="196">Now building <tspan class="hl">Buku Token</tspan>, a menu bar app for AI agent quotas.</text>
+      <text x="56" y="196">Daily setup: <tspan class="hl">Claude Code, Codex, Cursor, MCP servers.</tspan></text>
     </g>
 
     <g class="line l5">

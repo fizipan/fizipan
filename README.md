@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="A terminal asks who fizipan is. The answer: Hafizh Maulana Yusliansyah, a senior frontend developer in Jakarta, now building Buku Token.">
+  <img src="assets/banner.svg" width="100%" alt="A terminal asks who fizipan is. The answer: Hafizh Maulana Yusliansyah, an AI-native engineer in Jakarta who runs coding agents and reviews what they ship.">
 </p>
 
 <p align="center">
@@ -9,17 +9,21 @@
   <a href="https://instagram.com/fizipan"><img alt="Instagram" src="https://img.shields.io/badge/@fizipan-0B0F1A?style=flat-square&logo=instagram&logoColor=white"></a>
 </p>
 
-Hi, I'm Hafizh, or `fizipan` around here. I've been shipping web apps since 2021, mostly on the frontend: CMSes, dashboards, admin panels and landing pages, usually starting from a Figma file. I also spent a stretch on enterprise systems wired into SAP, Kafka and Redis, so the other side of the API doesn't scare me.
+Hi, I'm Hafizh, or `fizipan` around here. I write software with AI agents. Most of my work runs through coding agents now, so the job has moved from typing code to writing clear specs, setting guardrails and checking what comes back.
 
-## Working with agents
+**Now playing with:** multi-agent workflows, MCP servers, agent skills, and working out what all those tokens really cost.
 
-AI agents are in my daily setup now, and I treat them like fast junior devs who never get tired and sometimes make things up. My loop goes like this:
+💬 Ask me about Claude Code, MCP, and getting useful work out of agents on a real codebase.
+
+## How I work with agents
+
+I treat agents like fast junior devs who never get tired and sometimes make things up. My loop goes like this:
 
 ```
 spec → plan → agents build → I review → test it in a real browser → ship
 ```
 
-The review and the browser check are the parts I won't hand over. Running several agents at once also made me lose track of quotas and cost, which is how my current side project started.
+The review and the browser check are the parts I won't hand over.
 
 <p>
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-0B0F1A?style=flat-square&logo=claude&logoColor=D97757">
@@ -28,20 +32,17 @@ The review and the browser check are the parts I won't hand over. Running severa
   <img alt="MCP" src="https://img.shields.io/badge/MCP-0B0F1A?style=flat-square&logo=modelcontextprotocol&logoColor=white">
 </p>
 
-## Things I've built
+## The journey so far
 
-| Project | What it is | Built with |
-| --- | --- | --- |
-| [**Buku Token**](https://github.com/fizipan/buku-token) ([site](https://buku-token.vercel.app/)) | macOS menu bar app that shows the quota left and cost of your AI coding agents. Local first, no telemetry. | Rust, Tauri |
-| [**Bareng**](https://github.com/fizipan/bareng) ([live](https://bareng-nine.vercel.app)) | Online photobooth for two people. | Next.js, Supabase |
-| [**Gatot Kaca**](https://github.com/fizipan/gatot-kaca-theme) ([marketplace](https://marketplace.visualstudio.com/items?itemName=HafizhMaulanaY.gatot-kaca)) | VS Code theme for people who code at night. | VS Code |
+- **2021:** Started shipping web apps: HR, loyalty, booking and marketplace products.
+- **2022:** Took 1st place at LKS Kota Jakarta Barat.
+- **2024:** Moved into enterprise systems wired into SAP, Kafka and Redis.
+- **Now:** Agents are how I build. I spend my time on the spec and the review.
 
 ## What I work with
 
 <p>
-  <img alt="React, Next.js, Remix, Vue, Svelte, TypeScript, Tailwind CSS" src="https://skillicons.dev/icons?i=react,nextjs,remix,vue,svelte,ts,tailwind&theme=dark">
-  <br>
-  <img alt="Go, Python, Laravel, Node.js, Rust, GraphQL, Kafka, Redis, PostgreSQL" src="https://skillicons.dev/icons?i=go,py,laravel,nodejs,rust,graphql,kafka,redis,postgres&theme=dark">
+  <img alt="Python, TypeScript, Go, Rust, Node.js, Next.js, React, GraphQL, Kafka, Redis, PostgreSQL" src="https://skillicons.dev/icons?i=py,ts,go,rust,nodejs,nextjs,react,graphql,kafka,redis,postgres&theme=dark">
 </p>
 
 ## GitHub stats
