@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile charts
 
 on:
   schedule:
@@ -12,6 +12,13 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate contributions chart
+        run: node scripts/contributions.mjs "${{ github.repository_owner }}" dist/contributions.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate snake SVG
         uses: Platane/snk/svg-only@v3
         with:

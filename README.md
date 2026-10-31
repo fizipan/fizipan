@@ -34,10 +34,13 @@ The review and the browser check are the parts I won't hand over.
 
 ## The journey so far
 
-- **2021:** Started shipping web apps: HR, loyalty, booking and marketplace products.
-- **2022:** Took 1st place at LKS Kota Jakarta Barat.
-- **2024:** Moved into enterprise systems wired into SAP, Kafka and Redis.
-- **Now:** Agents are how I build. I spend my time on the spec and the review.
+- **2019:** Started Computer Software Engineering at SMK Negeri 17 Jakarta.
+- **2021:** Interned at PT Artoone, building a retail CMS, then joined Art By Code as a Junior Software Engineer: HR, loyalty, booking and marketplace apps.
+- **2022:** 1st place at LKS Kota Jakarta Barat and 3rd place at LKS Provinsi DKI Jakarta. Started my IT degree at Universitas Budi Luhur.
+- **2023:** Frontend Developer at Kelas Pintar, then Senior Front-End Engineer at Art By Code, leading and mentoring the frontend team.
+- **2024:** Software Engineer at Tripatra, on enterprise material and document management systems with Golang, Python, SAP, Kafka and Redis.
+- **2025:** Finished my bachelor's degree in Information Technology.
+- **2026:** Senior Frontend Developer at PT Rapier Technology International.
 
 ## What I work with
 
@@ -49,6 +52,10 @@ The review and the browser check are the parts I won't hand over.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/fizipan/fizipan/output/snake.svg" width="100%" alt="Animated snake eating the squares of my GitHub contribution graph">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fizipan/fizipan/output/contributions.svg" width="100%" alt="Animated bar chart of my GitHub contributions per month over the last 12 months, with yearly and all-time totals">
 </p>
 
 <p align="center">
