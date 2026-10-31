@@ -44,4 +44,15 @@ The review and the browser check are the parts I won't hand over. Running severa
   <img alt="Go, Python, Laravel, Node.js, Rust, GraphQL, Kafka, Redis, PostgreSQL" src="https://skillicons.dev/icons?i=go,py,laravel,nodejs,rust,graphql,kafka,redis,postgres&theme=dark">
 </p>
 
+## GitHub stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fizipan/fizipan/output/snake.svg" width="100%" alt="Animated snake eating the squares of my GitHub contribution graph">
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=fizipan&show_icons=true&bg_color=0B0F1A&title_color=22D3EE&text_color=D7DEEA&icon_color=8B5CF6&border_color=2A3350" width="49%" alt="GitHub stats for fizipan: stars, commits, pull requests, issues and rank">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fizipan&layout=compact&card_width=467&bg_color=0B0F1A&title_color=22D3EE&text_color=D7DEEA&border_color=2A3350" width="49%" alt="Most used languages across fizipan's repositories">
+</p>
+
 <sub>Indonesian native, working English. Say hi at hafizhmy26@gmail.com.</sub>
