@@ -6,7 +6,6 @@
   <a href="https://hafizhmaulanay.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0B0F1A?style=flat-square&logo=vercel&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/hafizhmaulanay"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B0F1A?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjEzIDEuNDUtMi4xMyAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1eiIvPjwvc3ZnPg=="></a>
   <a href="https://x.com/fiz_ipan"><img alt="X" src="https://img.shields.io/badge/@fiz__ipan-0B0F1A?style=flat-square&logo=x&logoColor=white"></a>
-  <a href="https://instagram.com/fizipan"><img alt="Instagram" src="https://img.shields.io/badge/@fizipan-0B0F1A?style=flat-square&logo=instagram&logoColor=white"></a>
 </p>
 
 Hi, I'm Hafizh, or `fizipan` around here. I write software with AI agents. Most of my work runs through coding agents now, so the job has moved from typing code to writing clear specs, setting guardrails and checking what comes back.
