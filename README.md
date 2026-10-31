@@ -1,19 +1,47 @@
-# 👋 Hi, I'm Hafizh Maulana Yusliansyah
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="A terminal asks who fizipan is. The answer: Hafizh Maulana Yusliansyah, a senior frontend developer in Jakarta, now building Buku Token.">
+</p>
 
-Meet **Hafizh** a.k.a `fizipan`, a seasoned web developer from Indonesia with 3 years of experiences in Software Developer. Most of the time was working with `javascript` or `typescript`, using various frameworks to build frontend applications such as `react`, `svelte` or `vue`.
+<p align="center">
+  <a href="https://hafizhmaulanay.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0B0F1A?style=flat-square&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/hafizhmaulanay"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B0F1A?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjEzIDEuNDUtMi4xMyAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1eiIvPjwvc3ZnPg=="></a>
+  <a href="https://x.com/fiz_ipan"><img alt="X" src="https://img.shields.io/badge/@fiz__ipan-0B0F1A?style=flat-square&logo=x&logoColor=white"></a>
+  <a href="https://instagram.com/fizipan"><img alt="Instagram" src="https://img.shields.io/badge/@fizipan-0B0F1A?style=flat-square&logo=instagram&logoColor=white"></a>
+</p>
 
-### Connect with me:
+Hi, I'm Hafizh, or `fizipan` around here. I've been shipping web apps since 2021, mostly on the frontend: CMSes, dashboards, admin panels and landing pages, usually starting from a Figma file. I also spent a stretch on enterprise systems wired into SAP, Kafka and Redis, so the other side of the API doesn't scare me.
 
-[![Twitter Badge](https://img.shields.io/badge/-@fizipan-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/fiz_ipan) [![Linkedin Badge](https://img.shields.io/badge/-Hafizh%20Maulana%20Yusliansyah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafizhmaulanay) [![Instagram Badge](https://img.shields.io/badge/-@fizipan-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/fizipan)
+## Working with agents
 
-- ⚡ Excited to Learning all about Open Source.
-- 🌱 I’m currently focusing in front end framework.
-- 😄 I'm natively speak Indonesian and mid speak english.
-- 💕 I'm currently fall in love with ReactJs, Tailwind and Laravel.
+AI agents are in my daily setup now, and I treat them like fast junior devs who never get tired and sometimes make things up. My loop goes like this:
 
-## 📊 Stats
+```
+spec → plan → agents build → I review → test it in a real browser → ship
+```
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizipan&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=fizipan&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" alt="Github Stats" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fizipan&theme=algolia" alt="Stat Streak" /></p>
-<p><img src="https://github-profile-trophy.vercel.app/?username=fizipan&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
+The review and the browser check are the parts I won't hand over. Running several agents at once also made me lose track of quotas and cost, which is how my current side project started.
+
+<p>
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-0B0F1A?style=flat-square&logo=claude&logoColor=D97757">
+  <img alt="Codex" src="https://img.shields.io/badge/Codex-0B0F1A?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTQgNmw3IDYtNyA2Ii8+PHBhdGggZD0iTTEzIDE5aDgiLz48L3N2Zz4=">
+  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-0B0F1A?style=flat-square&logo=cursor&logoColor=white">
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-0B0F1A?style=flat-square&logo=modelcontextprotocol&logoColor=white">
+</p>
+
+## Things I've built
+
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [**Buku Token**](https://github.com/fizipan/buku-token) ([site](https://buku-token.vercel.app/)) | macOS menu bar app that shows the quota left and cost of your AI coding agents. Local first, no telemetry. | Rust, Tauri |
+| [**Bareng**](https://github.com/fizipan/bareng) ([live](https://bareng-nine.vercel.app)) | Online photobooth for two people. | Next.js, Supabase |
+| [**Gatot Kaca**](https://github.com/fizipan/gatot-kaca-theme) ([marketplace](https://marketplace.visualstudio.com/items?itemName=HafizhMaulanaY.gatot-kaca)) | VS Code theme for people who code at night. | VS Code |
+
+## What I work with
+
+<p>
+  <img alt="React, Next.js, Remix, Vue, Svelte, TypeScript, Tailwind CSS" src="https://skillicons.dev/icons?i=react,nextjs,remix,vue,svelte,ts,tailwind&theme=dark">
+  <br>
+  <img alt="Go, Python, Laravel, Node.js, Rust, GraphQL, Kafka, Redis, PostgreSQL" src="https://skillicons.dev/icons?i=go,py,laravel,nodejs,rust,graphql,kafka,redis,postgres&theme=dark">
+</p>
+
+<sub>Indonesian native, working English. Say hi at hafizhmy26@gmail.com.</sub>

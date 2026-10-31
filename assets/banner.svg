@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 312" width="900" height="312" role="img" aria-labelledby="t d">
+  <title id="t">Terminal session introducing fizipan</title>
+  <desc id="d">A terminal asks who fizipan is. The answer: Hafizh Maulana Yusliansyah, a senior frontend developer in Jakarta who turns Figma files into CMSes, dashboards and landing pages, is building Buku Token, and works with AI agents while signing off on the diff himself.</desc>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.92" cy="0" r="0.75">
+      <stop offset="0" stop-color="#6D3BF5" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#6D3BF5" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card"><rect x="1" y="1" width="898" height="310" rx="14"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 17px; fill: #D7DEEA; }
+    .title { font-size: 13px; fill: #7D8799; }
+    .prompt { fill: #22D3EE; }
+    .ask { fill: #FFFFFF; font-weight: 600; }
+    .name { fill: #FFFFFF; font-weight: 600; }
+    .dim { fill: #A3ADBD; }
+    .hl { fill: #22D3EE; }
+    .line { opacity: 0; animation: show .35s ease-out forwards; }
+    .l1 { animation-delay: .2s; }
+    .l2 { animation-delay: 1.1s; }
+    .l3 { animation-delay: 1.5s; }
+    .l4 { animation-delay: 2.1s; }
+    .l5 { animation-delay: 2.7s; }
+    .l6 { animation-delay: 3.3s; }
+    .cursor { animation: show .35s ease-out 3.3s forwards, blink 1.1s steps(1) 3.7s infinite; opacity: 0; }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .line, .cursor { animation: none; opacity: 1; }
+    }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="900" height="312" fill="#0B0F1A"/>
+    <rect width="900" height="312" fill="url(#glow)"/>
+    <rect width="900" height="42" fill="#FFFFFF" fill-opacity="0.03"/>
+    <circle cx="28" cy="21" r="6" fill="#FF5F57"/>
+    <circle cx="50" cy="21" r="6" fill="#FEBC2E"/>
+    <circle cx="72" cy="21" r="6" fill="#28C840"/>
+    <text class="title" x="450" y="26" text-anchor="middle">~/fizipan</text>
+
+    <g class="line l1">
+      <text x="32" y="82"><tspan class="prompt">$</tspan> <tspan class="ask">claude "who is fizipan?"</tspan></text>
+    </g>
+
+    <g class="line l2">
+      <circle cx="39" cy="120" r="4.5" fill="url(#edge)"/>
+      <text x="56" y="126"><tspan class="name">Hafizh Maulana Yusliansyah.</tspan> Senior frontend developer, Jakarta.</text>
+    </g>
+    <g class="line l3">
+      <text class="dim" x="56" y="152">Figma files go in. CMSes, dashboards and landing pages come out.</text>
+    </g>
+
+    <g class="line l4">
+      <circle cx="39" cy="190" r="4.5" fill="url(#edge)"/>
+      <text x="56" y="196">Now building <tspan class="hl">Buku Token</tspan>, a menu bar app for AI agent quotas.</text>
+    </g>
+
+    <g class="line l5">
+      <circle cx="39" cy="234" r="4.5" fill="url(#edge)"/>
+      <text x="56" y="240">Agents do most of the typing. He signs off on the diff.</text>
+    </g>
+
+    <g class="line l6">
+      <text x="32" y="284" class="prompt">$</text>
+    </g>
+    <rect class="cursor" x="50" y="270" width="10" height="19" fill="#22D3EE"/>
+  </g>
+  <rect x="1" y="1" width="898" height="310" rx="14" fill="none" stroke="url(#edge)" stroke-opacity="0.55"/>
+</svg>
