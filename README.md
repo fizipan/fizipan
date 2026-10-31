@@ -45,7 +45,7 @@ The review and the browser check are the parts I won't hand over.
 ## What I work with
 
 <p>
-  <img alt="Python, TypeScript, Go, Rust, Node.js, Next.js, React, GraphQL, Kafka, Redis, PostgreSQL" src="https://skillicons.dev/icons?i=py,ts,go,rust,nodejs,nextjs,react,graphql,kafka,redis,postgres&theme=dark">
+  <img alt="Python, TypeScript, JavaScript, Go, Rust, Dart, PHP, Flutter, Tauri, Next.js, React, Remix, Vue, Nuxt, Svelte, Tailwind CSS, Node.js, NestJS, Bun, Laravel, FastAPI, GraphQL, Kafka, Redis, PostgreSQL, SQLite, Supabase, Firebase, Docker, Vercel" src="https://skillicons.dev/icons?i=py,ts,js,go,rust,dart,php,flutter,tauri,nextjs,react,remix,vue,nuxt,svelte,tailwind,nodejs,nestjs,bun,laravel,fastapi,graphql,kafka,redis,postgres,sqlite,supabase,firebase,docker,vercel&theme=dark&perline=10">
 </p>
 
 ## GitHub stats
