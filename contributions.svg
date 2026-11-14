@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="900" height="320" role="img" aria-labelledby="t">
+  <title id="t">4,201 GitHub contributions in the last 12 months, 5,200 all time, per month as a bar chart</title>
+  <defs>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .title { font-size: 15px; font-weight: 600; fill: #22D3EE; }
+    .num { font-size: 30px; font-weight: 700; fill: #FFFFFF; }
+    .label { font-size: 13px; fill: #A3ADBD; }
+    .value { font-size: 11px; fill: #D7DEEA; text-anchor: middle; }
+    .month { font-size: 12px; fill: #7D8799; text-anchor: middle; }
+    .fade { opacity: 0; animation: fade .4s ease-out forwards; }
+    .bar { transform-box: fill-box; transform-origin: bottom; transform: scaleY(0); animation: grow .7s cubic-bezier(.22,1,.36,1) forwards; }
+    @keyframes fade { to { opacity: 1; } }
+    @keyframes grow { to { transform: scaleY(1); } }
+    @media (prefers-reduced-motion: reduce) {
+      .fade, .bar { animation: none; opacity: 1; transform: none; }
+    }
+  </style>
+  <rect x="1" y="1" width="898" height="318" rx="14" fill="#0B0F1A" stroke="#2A3350"/>
+  <text class="title" x="32" y="38">Contributions</text>
+  <g class="fade" style="animation-delay:0ms">
+    <text class="num" x="32" y="86">4,201</text>
+    <text class="label" x="32" y="108">last 12 months</text>
+  </g>
+  <g class="fade" style="animation-delay:120ms">
+    <text class="num" x="272" y="86">5,200</text>
+    <text class="label" x="272" y="108">all time</text>
+  </g>
+  <g class="fade" style="animation-delay:240ms">
+    <text class="num" x="512" y="86">179</text>
+    <text class="label" x="512" y="108">active days</text>
+  </g>
+  <rect class="bar" x="39.0" y="277" width="55.7" height="3" rx="4" fill="url(#bar)" style="animation-delay:200ms"/>
+  <text class="value fade" x="66.8" y="270" style="animation-delay:650ms">34</text>
+  <text class="month" x="66.8" y="300">Dec</text>
+  <rect class="bar" x="108.7" y="278" width="55.7" height="2" rx="4" fill="url(#bar)" style="animation-delay:270ms"/>
+  <text class="value fade" x="136.5" y="271" style="animation-delay:720ms"></text>
+  <text class="month" x="136.5" y="300">Jan</text>
+  <rect class="bar" x="178.3" y="275" width="55.7" height="5" rx="4" fill="url(#bar)" style="animation-delay:340ms"/>
+  <text class="value fade" x="206.2" y="268" style="animation-delay:790ms">60</text>
+  <text class="month" x="206.2" y="300">Feb</text>
+  <rect class="bar" x="248.0" y="272" width="55.7" height="8" rx="4" fill="url(#bar)" style="animation-delay:410ms"/>
+  <text class="value fade" x="275.8" y="265" style="animation-delay:860ms">99</text>
+  <text class="month" x="275.8" y="300">Mar</text>
+  <rect class="bar" x="317.7" y="264" width="55.7" height="16" rx="4" fill="url(#bar)" style="animation-delay:480ms"/>
+  <text class="value fade" x="345.5" y="257" style="animation-delay:930ms">196</text>
+  <text class="month" x="345.5" y="300">Apr</text>
+  <rect class="bar" x="387.3" y="269" width="55.7" height="11" rx="4" fill="url(#bar)" style="animation-delay:550ms"/>
+  <text class="value fade" x="415.2" y="262" style="animation-delay:1000ms">126</text>
+  <text class="month" x="415.2" y="300">May</text>
+  <rect class="bar" x="457.0" y="270" width="55.7" height="10" rx="4" fill="url(#bar)" style="animation-delay:620ms"/>
+  <text class="value fade" x="484.8" y="263" style="animation-delay:1070ms">124</text>
+  <text class="month" x="484.8" y="300">Jun</text>
+  <rect class="bar" x="526.7" y="240" width="55.7" height="40" rx="4" fill="url(#bar)" style="animation-delay:690ms"/>
+  <text class="value fade" x="554.5" y="233" style="animation-delay:1140ms">480</text>
+  <text class="month" x="554.5" y="300">Jul</text>
+  <rect class="bar" x="596.3" y="259" width="55.7" height="21" rx="4" fill="url(#bar)" style="animation-delay:760ms"/>
+  <text class="value fade" x="624.2" y="252" style="animation-delay:1210ms">248</text>
+  <text class="month" x="624.2" y="300">Aug</text>
+  <rect class="bar" x="666.0" y="199" width="55.7" height="81" rx="4" fill="url(#bar)" style="animation-delay:830ms"/>
+  <text class="value fade" x="693.8" y="192" style="animation-delay:1280ms">960</text>
+  <text class="month" x="693.8" y="300">Sep</text>
+  <rect class="bar" x="735.7" y="160" width="55.7" height="120" rx="4" fill="url(#bar)" style="animation-delay:900ms"/>
+  <text class="value fade" x="763.5" y="153" style="animation-delay:1350ms">1,429</text>
+  <text class="month" x="763.5" y="300">Oct</text>
+  <rect class="bar" x="805.3" y="243" width="55.7" height="37" rx="4" fill="url(#bar)" style="animation-delay:970ms"/>
+  <text class="value fade" x="833.2" y="236" style="animation-delay:1420ms">443</text>
+  <text class="month" x="833.2" y="300">Nov</text>
+</svg>
